@@ -1,6 +1,6 @@
 const sumar = require('./sumar');
-const restar = require('./multiplicar');
-const multiplicar = require('./dividir');
+const restar = require('./restar');
+const multiplicar = require('./multiplicar');
 const saludo = require('./dividir');
 
 console.log("suma:", sumar(2, 3));
