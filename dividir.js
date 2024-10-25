@@ -1,6 +1,6 @@
-const saludo = (a, b) => {
+const dividir = (a, b) => {
     let resultado = a / b;
     return resultado;
 }
 
-module.exports = saludo;
+module.exports = dividir;
